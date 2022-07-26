@@ -1,0 +1,85 @@
+{
+    "Productos": [
+      {
+        "codigo" : "00001",
+        "descripcion": "Salsa de Tomate",
+        "unidad": "caja",
+        "cantidad": "20",
+        "proveedor": "Edward Espinoza"
+     },
+
+     {
+        "codigo" : "00002",
+        "descripcion": "Leche Entera",
+        "unidad": "caja",
+        "cantidad": "40",
+        "proveedor": "Glaucio Mero"
+     },
+
+     {
+        "codigo" : "00003",
+        "descripcion": "Aceite",
+        "unidad": "caja",
+        "cantidad": "50",
+        "proveedor": "Kevin Mantuano"
+     },
+
+     {
+        "codigo" : "00004",
+        "descripcion": "Pasta de tomate",
+        "unidad": "caja",
+        "cantidad": "30",
+        "proveedor": "Mike Bello"
+     },
+
+     {
+        "codigo" : "00005",
+        "descripcion": "Pan",
+        "unidad": "paquete",
+        "cantidad": "10",
+        "proveedor": "Darlin Cevallos"
+     },
+
+     {
+        "codigo" : "00006",
+        "descripcion": "Lenteja",
+        "unidad": "paquete",
+        "cantidad": "80",
+        "proveedor": "Gabriel Reyna"
+     },
+
+     {
+        "codigo" : "00007",
+        "descripcion": "Atun",
+        "unidad": "caja",
+        "cantidad": "90",
+        "proveedor": "Melina Macias"
+     },
+
+     {
+        "codigo" : "00008",
+        "descripcion": "Avena",
+        "unidad": "paquete",
+        "cantidad": "48",
+        "proveedor": "Nicole España"
+     },
+
+     {
+        "codigo" : "00009",
+        "descripcion": "Azucar",
+        "unidad": "caja",
+        "cantidad": "50",
+        "proveedor": "Luis Zambrano"
+     },
+
+     {
+        "codigo" : "00010",
+        "descripcion": "Sal",
+        "unidad": "caja",
+        "cantidad": "70",
+        "proveedor": "Cristhina Parrales"
+     }
+
+    ]
+}
+    
